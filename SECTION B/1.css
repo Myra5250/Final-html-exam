@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+.cards{
+    display: grid;
+    grid-template-columns: auto;
+    gap: 20px;
+
+}
+.card{
+    background-color: skyblue;
+    padding: 14px 20px;
+    text-align: center;
+    border: 10px solid rgb(15, 10, 10);
+    border-radius: 10px;
+    display: block;
+    width: 100px;
+    margin: auto;
+    max-width: 400px;
+}

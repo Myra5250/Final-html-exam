@@ -1,0 +1,15 @@
+nav {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #000000;
+    padding: 10px;
+}
+nav a {
+    color: white;
+    margin: 5px;
+    padding: 10px 15px;
+}
+nav a:hover {
+    background-color: black;
+    border-radius: 5px;
+}
